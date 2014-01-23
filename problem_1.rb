@@ -26,7 +26,6 @@ def divisible?(num)
 		false
 	end	
 end
-
 puts first_way(1000)
 
 
@@ -47,5 +46,8 @@ def second_way(mx)
 	end
 	return sum
 end
-
 puts second_way(1000)
+
+#=> ruby problem_1.rb
+	#233168
+	#233168
